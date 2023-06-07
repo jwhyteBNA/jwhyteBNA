@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jess, a full-time full-stack developer 👩🏽‍💻working remotely since 2019 🪁</div>  
   
 
-- 🕵🏻‍♀️ I’m currently working on [a front-end project that allows families to share memories and build a will](https://github.com/jwhyteBNA/The-Living-Legend-Capstone)  
+- 🕵🏻‍♀️ I’m currently working on [a full-stack social media app for mocktail lovers.🧉🧋🍹](https://github.com/jwhyteBNA/Swizzle-Server)  
   
 
-- 🌱 I’m currently learning more about SQL and Python  
+- 🌱 I’m currently learning about testing and reporting apps in Python
   
 
 - 📬 Want to talk work (code, databases) or play (TV, food, podcasts, books)? Let's chat!  
