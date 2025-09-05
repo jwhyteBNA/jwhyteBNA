@@ -1,65 +1,76 @@
-<div align="center">
-<img src="https://media.baamboozle.com/uploads/images/20896/1634789626_71347_gif-url.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center" style="position: relative;">
+  <!-- Capsule background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header" />
 
-### <div align="center">I'm Jess, a full-time full-stack developer 👩🏽‍💻working remotely since 2019 🪁</div>  
-  
+  <!-- Typing text overlaid and centered -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Make+It+Clean;Make+It+Useful;Make+It+Matter;Make+It+Meaningful;Make+It+Functional;Make+It+Thoughtful;Make+It+Efficient;Make+It+Impactful;Make+It+Reliable;Make+It+Intuitive;Make+It+Scalable;Make+It+Clean;Make+It+Work;Make+It+Better;Make+It+Pretty"
+         style="position: relative; top: -90px; display: block; margin: 0 auto;" />
+  </a>
+</p>
 
-- 🕵🏻‍♀️ I’m currently working on [a full-stack social media app for mocktail lovers.🧉🧋🍹](https://github.com/jwhyteBNA/Swizzle-Server)  
-  
+## Hi, I'm Jess — Data Engineer with Full-Stack Superpowers 🚀
+ 
 
-- 🌱 I’m currently learning about testing and reporting apps in Python
+🏞️ I’m currently working on [an end-to-end data pipeline for unforgettable trips to US National Parks.](https://github.com/jwhyteBNA/parks-wayfinder-pipeline)  
   
+🛠️ Driven by data orchestration, automation, and analytics
 
-- 📬 Want to talk work (code, databases) or play (TV, food, podcasts, books)? Let's chat!  
-  
+🌐 Trained in full-stack web development (React, Django, Next.js, and more)
 
-- 💡 Fun facts: I will color code anything, I once took a personality test that says I'm a mix of Linda Belcher, Leslie Knope, and SpongeBob (pretty accurate), and my most used emojis are 💜🤗🙃🍻🙌  
-  
+🎨 I love color-coding, creative problem solving, and making tech approachable
+
+🤝 Let’s chat about data, code, travel, or your favorite podcast!
+
+
+My background spans web development, project management, and HR, giving me a unique perspective on how people and systems work together. I enjoy finding creative solutions to complex problems, and I’m a people-oriented engineer who thrives on teamwork, communication, and driving projects from concept to polished results.
+
+I work primarily with Python, SQL, and cloud platforms, bridging the gap between robust data infrastructure and user-facing applications.
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Toolbox
+
+![Python](https://img.shields.io/badge/Python-FF8C42?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-27AE60?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EB5757?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-F2C94C?style=for-the-badge&logo=data:image/svg+xml;base64,BASE64_ENCODED_SVG_HERE&logoColor=black)
+![DuckLake](https://img.shields.io/badge/DuckLake-F2994A?style=for-the-badge&logo=data:image/svg+xml;base64,BASE64_ENCODED_SVG_HERE&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-43BCCD?style=for-the-badge&logo=dbeaver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-9B51E0?style=for-the-badge&logo=fastapi&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FC6D26?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-EB5757?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-43BCCD?style=for-the-badge&logo=metabase&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-27AE60?style=for-the-badge&logo=prefect&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Meltano](https://img.shields.io/badge/Meltano-2F88B6?style=for-the-badge&logo=data:image/svg+xml;base64,PUT_BASE64_HERE&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B51E0?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-A1C935?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=00FFAE)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-43BCCD?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6FCF97?style=for-the-badge&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+  
 
 
 ## Connect with me  
@@ -77,29 +88,12 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwhyteBNA&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1212732062&cover_image=true&theme=default&show_offline=false&background_color=5c0cd4&interchange=false&bar_color=a136b0&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jwhyteBNA&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwhyteBNA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
