@@ -1,6 +1,6 @@
 <p align="center" style="position: relative;">
   <!-- Capsule background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 
   <!-- Typing text overlaid and centered -->
   <a href="https://git.io/typing-svg">
